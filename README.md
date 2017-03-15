@@ -1,7 +1,7 @@
 Docker Fundamentals WebApp
 ==========================
 
-The Docker Fundamentals repository contains the example Hello World Python WebApp
+The Docker Fundamentals repository contains the example ALL YOUR BASE ARE BELONG TO US Python WebApp
 
 ## License
 
